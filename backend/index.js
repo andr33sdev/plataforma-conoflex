@@ -369,15 +369,15 @@ app.post("/api/reglas", (req, res) => {
 
 app.get("/auth/google", (req, res) => {
   const scopes = [
-    "[https://www.googleapis.com/auth/gmail.readonly](https://www.googleapis.com/auth/gmail.readonly)",
-    "[https://www.googleapis.com/auth/gmail.compose](https://www.googleapis.com/auth/gmail.compose)",
-    "[https://www.googleapis.com/auth/gmail.modify](https://www.googleapis.com/auth/gmail.modify)",
+    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/gmail.compose",
+    "https://www.googleapis.com/auth/gmail.modify",
   ];
   res.redirect(
     oauth2Client.generateAuthUrl({
       access_type: "offline",
       prompt: "consent",
-      scope: scopes,
+      scope: scopes.join(" "),
     }),
   );
 });
