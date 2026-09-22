@@ -403,6 +403,13 @@ app.get("/auth/google/callback", async (req, res) => {
 
 app.get("/api/mails", async (req, res) => {
   try {
+    if (
+      !oauth2Client.credentials ||
+      (!oauth2Client.credentials.access_token &&
+        !oauth2Client.credentials.refresh_token)
+    ) {
+      return res.status(401).json({ error: "No autenticado" });
+    }
     if (!oauth2Client.credentials || !oauth2Client.credentials.access_token) {
       return res.status(401).json({ error: "No autenticado" });
     }
