@@ -78,8 +78,16 @@ const oauth2Client = new google.auth.OAuth2(
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 const TOKEN_PATH = path.join(__dirname, "tokens_web.json");
 
-if (fs.existsSync(TOKEN_PATH)) {
+if (process.env.GOOGLE_REFRESH_TOKEN) {
+  // Si estamos en Render, usamos el token de entorno (nunca se borra)
+  oauth2Client.setCredentials({
+    refresh_token: process.env.GOOGLE_REFRESH_TOKEN,
+  });
+  console.log("✅ Credenciales de Google cargadas desde Render.");
+} else if (fs.existsSync(TOKEN_PATH)) {
+  // Para pruebas en tu compu local
   oauth2Client.setCredentials(JSON.parse(fs.readFileSync(TOKEN_PATH)));
+  console.log("✅ Credenciales de Google cargadas desde archivo local.");
 }
 
 function crearRawEmail(to, subject, htmlBody, threadId) {
@@ -387,7 +395,7 @@ app.get("/auth/google/callback", async (req, res) => {
     const { tokens } = await oauth2Client.getToken(req.query.code);
     oauth2Client.setCredentials(tokens);
     fs.writeFileSync(TOKEN_PATH, JSON.stringify(tokens));
-    res.redirect("http://localhost:5173?status=conectado");
+    res.redirect("https://plataforma-conoflex.vercel.app?status=conectado");
   } catch (error) {
     res.status(500).send("Error de autenticación");
   }
