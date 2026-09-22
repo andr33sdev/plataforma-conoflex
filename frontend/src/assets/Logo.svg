@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="31.4802mm" height="31.1308mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 578.05 571.64"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#E85C0D;stroke-width:22.83;stroke-miterlimit:22.9256}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:#282827;fill-rule:nonzero}
+    .fil3 {fill:#E85C0D;fill-rule:nonzero}
+    .fil0 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M351.7 261.29c-19.77,5.1 -41.83,11.9 -62.67,12.24 -21.09,0.34 -41.88,-2.48 -63.16,-10.2 10.2,-45.77 20.45,-91.58 30.66,-137.35l64.96 -0 30.22 135.31 0 0z"/>
+  <ellipse class="fil1 str0" cx="289.03" cy="285.82" rx="277.61" ry="274.4"/>
+  <path class="fil2" d="M289.03 326.34l-175.92 73.95c-2.53,1.07 -4.18,3.5 -4.18,6.22l0 9.47c0,2.72 1.65,5.2 4.18,6.22l165.48 68.7c6.7,2.77 14.23,2.77 20.94,0l165.48 -68.7c2.53,-1.07 4.18,-3.5 4.18,-6.22l0 -9.47c0,-2.72 -1.65,-5.15 -4.18,-6.22l-175.92 -73.95 -0.05 0z"/>
+  <g>
+   <path class="fil3" d="M289.03 130.3c-12.58,0 -23.32,-1.56 -32.45,-4.27 5.83,-26.14 9.62,-43.24 9.67,-43.29 1.21,-4.18 4.08,-9.81 8.7,-14.19 7.63,-7.39 20.5,-7.39 28.23,0 4.57,4.37 7.43,10.01 8.7,14.19 0.05,0 3.84,17.15 9.67,43.34 -9.13,2.72 -19.92,4.23 -32.5,4.23l0 -0zm0 0l0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M339.75 207.74c-13.26,5 -29.98,7.92 -50.72,7.92 -20.75,0 -37.41,-2.92 -50.67,-7.92 3.01,-13.7 6.02,-27.11 8.79,-39.69 11.32,4.08 25.07,6.46 41.88,6.46 16.81,0 30.61,-2.38 41.88,-6.46 2.82,12.58 5.83,25.99 8.84,39.69l0 0zm0 0l0 0 0 0z"/>
+  </g>
+  <path class="fil3" d="M377.3 400.92c-9.09,7.09 -33.28,20.31 -88.28,21.67 -55,-1.36 -79.19,-14.58 -88.23,-21.67 -2.96,-2.33 -4.23,-6.02 -3.4,-9.67 1.26,-5.83 3.5,-15.93 6.51,-29.15 5.69,-25.75 14.04,-63.06 22.74,-102.08 15.6,6.75 35.95,10.83 62.38,10.83 26.43,0 46.88,-4.08 62.43,-10.83 8.65,39.01 16.96,76.33 22.64,102.08 3.01,13.22 5.3,23.32 6.56,29.15 0.83,3.64 -0.39,7.34 -3.35,9.67l-0 0z"/>
+ </g>
+</svg>

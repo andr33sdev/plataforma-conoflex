@@ -1,0 +1,869 @@
+Cód: 1025
+Nombre: MULTIUSO FLEXIBLE
+Medidas: Base: Ø 15cm.
+Precio Lista: $6,979.01
+Especificación: Conformado: 1 Pieza, Reflectivo: NO APLICA
+----------------------------------------
+Cód: 2051L-1R / 2051-1R
+Nombre: CIUDAD SEMIFLEXIBLE CON BASE
+Medidas: Base: 35x35cm.
+Precio Lista: SIN BASE (L), $17,296.91; CON BASE, $22,344.16
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x7cm.
+----------------------------------------
+Cód: 2070-2R
+Nombre: ECONO CLASSIC SEMIFLEXIBLE
+Medidas: Base: 35x35cm.
+Precio Lista: $35,017.73
+Especificación: Conformado: 1 Pieza, Reflectivo: 2x7,5cm.
+----------------------------------------
+Cód: 2071L-2R / 2071LE-2R
+Nombre: ECONO SEMIFLEXIBLE CON BASE
+Medidas: Base: 35x35cm.
+Precio Lista: SIN BASE (L), $15,004.07; CON BASE, $24,206.74
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1570LSF-2R
+Nombre: KING CONE SEMIFLEXIBLE
+Medidas: Base: 26x26cm.
+Precio Lista: $23,577.79
+Especificación: Conformado: 1 Pieza, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1570LSFB-2R
+Nombre: KING CONE SEMIFLEXIBLE CON BASE
+Medidas: Base: 29x29cm.
+Precio Lista: $32,419.37
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1570LSF-AM FC
+Nombre: WET FLOOR
+Medidas: Base: 26x26cm.
+Precio Lista: $23,636.99
+Especificación: Conformado: 1 Pieza, Gráfica: Wet Floor
+----------------------------------------
+Cód: 1570L-2R NA
+Nombre: KING CONE LIGHT PVC FLEXIBLE CON MEMORIA
+Medidas: Base: 26x26cm.
+Precio Lista: $35,210.07
+Especificación: Conformado: 1 Pieza, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1570LB-2R NA
+Nombre: KING CONE LIGHT PVC FLEXIBLE CON BASE
+Medidas: Base: 29x29cm.
+Precio Lista: $39,300.85
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1570-2R NA
+Nombre: KING CONE PVC FLEXIBLE
+Medidas: Base: 26x26cm.
+Precio Lista: $50,231.83
+Especificación: Conformado: 1 Pieza, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1570B-2R NA
+Nombre: KING CONE PVC FLEXIBLE CON BASE
+Medidas: Base: 29x29cm.
+Precio Lista: $55,852.23
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1170LSF-2R
+Nombre: VIAL LIGHT SEMIFLEXIBLE
+Medidas: Base: 35x35cm.
+Precio Lista: $52,261.11
+Especificación: Conformado: 1 Pieza, Reflectivo: 1x10cm y 1x5cm.
+----------------------------------------
+Cód: 1170L-2R NA
+Nombre: VIAL LIGHT PVC FLEXIBLE
+Medidas: Base: 35x35cm.
+Precio Lista: $70,035.69
+Especificación: Conformado: 1 Pieza, Reflectivo: 2x10cm.
+----------------------------------------
+Cód: 1176LSF-2R
+Nombre: VIAL SEMIFLEXIBLE
+Medidas: Base: 36x36cm.
+Precio Lista: $40,200.48
+Especificación: Conformado: 2 Piezas, Reflectivo: 2x10cm.
+----------------------------------------
+Cód: 1176-2R NA
+Nombre: VIAL PVC
+Medidas: Base: 40x40cm.
+Precio Lista: $60,000.00
+Especificación: Conformado: 1 Pieza, Reflectivo: 2x10cm.
+----------------------------------------
+Cód: 1200LSF-2R
+Nombre: RUTERO SEMIFLEXIBLE
+Medidas: Base: 36x36cm.
+Precio Lista: $40,200.49
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: 1200L-2R NA
+Nombre: RUTERO LIGHT PVC
+Medidas: Base: 40x40cm.
+Precio Lista: $72,761.29
+Especificación: Conformado: 1 Pieza, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: 1200-2R NA
+Nombre: RUTERO PVC
+Medidas: Base: 40x40cm.
+Precio Lista: $89,273.20
+Especificación: Conformado: 1 Pieza, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: 2081-2R
+Nombre: ECONOMAX
+Medidas: Base: 45x45cm.
+Precio Lista: $68,634.98
+Especificación: Conformado: 1 Pieza, Reflectivo: 2x10cm.
+----------------------------------------
+Cód: 2300L-2R
+Nombre: VENCEDOR LIGHT
+Medidas: Base: 35x35cm.
+Precio Lista: $79,522.78
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: 2300-2R
+Nombre: VENCEDOR
+Medidas: Base: 45x45cm. (Octogonal)
+Precio Lista: $126,263.07
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: 2301 CLASSIC-2R
+Nombre: OBRADOR CLASSIC
+Medidas: Base: 45x45cm. (Octogonal)
+Precio Lista: $184,435.58
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: 2400-2R
+Nombre: AUTOPISTA
+Medidas: Base: 50x50cm. (Octogonal)
+Precio Lista: $225,855.99
+Especificación: Conformado: 2 Piezas, Reflectivo: 1x15cm y 1x10cm.
+----------------------------------------
+Cód: COMBO-01
+Nombre: Ciudad Light + Cartel Portátil
+Medidas: Altura: 100 cm., Peso: 1 kg.
+Precio Lista: FC 1C, $55,832.95; FC 2C, $65,617.17; RFC 1C, $70,544.43; RFC 2C, $95,040.13
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-01B
+Nombre: Ciudad Light con B + Cartel Portátil
+Medidas: Altura: 100 cm., Peso: 2,4 kg.
+Precio Lista: FC 1C, $60,880.20; FC 2C, $70,664.41; RFC 1C, $75,591.68; RFC 2C, $100,087.37
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-02
+Nombre: King Cone S. + Cartel Portátil
+Medidas: Altura: 114 cm., Peso: 1,7 kg.
+Precio Lista: FC 1C, $62,113.83; FC 2C, $71,898.04; RFC 1C, $76,825.31; RFC 2C, $101,321.00
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-02B
+Nombre: King Cone S. con B + Cartel Portátil
+Medidas: Altura: 114 cm., Peso: 3,7 kg.
+Precio Lista: FC 1C, $70,955.41; FC 2C, $80,739.63; RFC 1C, $85,666.89; RFC 2C, $110,162.59
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-03
+Nombre: Vial Light S. + Cartel Portátil
+Medidas: Altura: 126 cm., Peso: 3,2 kg.
+Precio Lista: FC 1C, $90,797.15; FC 2C, $100,581.37; RFC 1C, $105,508.63; RFC 2C, $130,004.33
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-04
+Nombre: Rutero S. + Cartel Portátil
+Medidas: Altura: 131 cm., Peso: 5,5 kg.
+Precio Lista: FC 1C, $78,736.53; FC 2C, $88,520.74; RFC 1C, $93,448.01; RFC 2C, $117,943.70
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-05
+Nombre: Vencedor Light + Cartel Portátil
+Medidas: Altura: 170 cm., Peso: 3,5 kg.
+Precio Lista: FC 1C, $118,058.82; FC 2C, $127,843.04; RFC 1C, $132,770.30; RFC 2C, $157,266.00
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-06
+Nombre: Columna + Cartel Portátil
+Medidas: Altura: 155 cm., Peso: 6,5 kg.
+Precio Lista: FC 1C, $112,755.05; FC 2C, $122,539.27; RFC 1C, $127,466.53; RFC 2C, $151,962.23
+Especificación: FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-07
+Nombre: Delineador 600 LE + Cartel Portátil
+Medidas: Altura: 100 cm., Peso: 1,7 kg.
+Precio Lista: FC 1C, $106,799.87; FC 2C, $116,584.09; RFC 1C, $121,511.35; RFC 2C, $146,007.05
+Especificación: NO INCLUYE FIJACIÓN, FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-08
+Nombre: Delineador 800 LE + Cartel Portátil
+Medidas: Altura: 120 cm., Peso: 1,9 kg.
+Precio Lista: FC 1C, $129,262.88; FC 2C, $139,047.10; RFC 1C, $143,974.36; RFC 2C, $168,470.06
+Especificación: NO INCLUYE FIJACIÓN, FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: COMBO-09
+Nombre: Delineador 900 LE + Cartel Portátil
+Medidas: Altura: 130 cm., Peso: 2,2 kg.
+Precio Lista: FC 1C, $169,996.27; FC 2C, $179,780.49; RFC 1C, $184,707.75; RFC 2C, $209,203.45
+Especificación: NO INCLUYE FIJACIÓN, FC= VINILO IMPRESO FULL COLOR, RFC= REFLECTIVO IMPRESO FULL COLOR
+----------------------------------------
+Cód: MP2014 NE
+Nombre: ATENUADOR (MACIZO)
+Medidas: Altura: 2cm., Pisada: 8,5cm.
+Precio Lista: SIN FIJACIÓN, $37,819.27; HORMIGÓN - H / ASFALTO - A, $61,111.96
+Especificación: Peso x Mt.Lineal: 1,48kg., Reflectivo: NO APLICA
+----------------------------------------
+Cód: MP2014 AM/NE
+Nombre: ATENUADOR (MACIZO)
+Medidas: Altura: 2cm., Pisada: 8,5cm.
+Precio Lista: SIN FIJACIÓN, $39,219.99; HORMIGÓN - H / ASFALTO - A, $62,512.67
+Especificación: Peso x Mt.Lineal: 1,48kg., Reflectivo: NO APLICA
+----------------------------------------
+Cód: MP2014 AM
+Nombre: ATENUADOR (MACIZO)
+Medidas: Altura: 2cm., Pisada: 8,5cm.
+Precio Lista: SIN FIJACIÓN, $40,620.70; HORMIGÓN - H / ASFALTO - A, $63,913.39
+Especificación: Peso x Mt.Lineal: 1,48kg., Reflectivo: NO APLICA
+----------------------------------------
+Cód: MP2013 NE
+Nombre: DESPERTADOR (MACIZO)
+Medidas: Altura: 2,5cm., Pisada: 12cm.
+Precio Lista: SIN FIJACIÓN, $39,219.99; HORMIGÓN - H / ASFALTO - A, $62,512.67
+Especificación: Peso x Mt.Lineal: 2,7kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2013 AM/NE
+Nombre: DESPERTADOR (MACIZO)
+Medidas: Altura: 2,5cm., Pisada: 12cm.
+Precio Lista: SIN FIJACIÓN, $40,620.70; HORMIGÓN - H / ASFALTO - A, $63,913.39
+Especificación: Peso x Mt.Lineal: 2,7kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2013 AM
+Nombre: DESPERTADOR (MACIZO)
+Medidas: Altura: 2,5cm., Pisada: 12cm.
+Precio Lista: SIN FIJACIÓN, $42,021.41; HORMIGÓN - H / ASFALTO - A, $65,314.10
+Especificación: Peso x Mt.Lineal: 2,7kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018 LIGHT NE
+Nombre: IMPACTO LIGHT
+Medidas: Altura: 5cm. Ancho: 18 cm.
+Precio Lista: SIN FIJACIÓN, $129,691.10; HORMIGÓN-H, $145,219.56; ASFALTO - A, $151,105.78
+Especificación: Peso x Mt.Lineal: 2,12kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018 LIGHT AM/NE
+Nombre: IMPACTO LIGHT
+Medidas: Altura: 5cm. Ancho: 18 cm.
+Precio Lista: SIN FIJACIÓN, $129,691.10; HORMIGÓN-H, $145,219.56; ASFALTO - A, $151,105.78
+Especificación: Peso x Mt.Lineal: 2,12kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018 LIGHT AM
+Nombre: IMPACTO LIGHT
+Medidas: Altura: 5cm. Ancho: 18 cm.
+Precio Lista: SIN FIJACIÓN, $129,691.10; HORMIGÓN-H, $145,219.56; ASFALTO - A, $151,105.78
+Especificación: Peso x Mt.Lineal: 2,12kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018P LIGHT AM
+Nombre: PUNTERA IMPACTO LIGHT
+Medidas: Altura: 5cm. Ancho: 18cm., Largo: 11cm.
+Precio Lista: SIN FIJACIÓN, $43,489.61; HORMIGÓN-H, $59,018.07; ASFALTO - A, $64,904.30
+Especificación: Venta por par, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018 NE
+Nombre: IMPACTO (MACIZO)
+Medidas: Altura: 4,5cm., Pisada: 16cm.
+Precio Lista: SIN FIJACIÓN, $86,188.56; HORMIGÓN-H, $110,450.19; ASFALTO - A, $130,863.27
+Especificación: Peso x Mt.Lineal: 7kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018LE AM/NE
+Nombre: IMPACTO (MACIZO)
+Medidas: Altura: 4,5cm., Pisada: 16cm.
+Precio Lista: SIN FIJACIÓN, $100,931.34; HORMIGÓN-H, $125,192.97; ASFALTO - A, $145,606.05
+Especificación: Peso x Mt.Lineal: 7kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2018LE AM
+Nombre: IMPACTO (MACIZO)
+Medidas: Altura: 4,5cm., Pisada: 16cm.
+Precio Lista: SIN FIJACIÓN, $115,674.12; HORMIGÓN-H, $139,935.75; ASFALTO - A, $160,348.83
+Especificación: Peso x Mt.Lineal: 7kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2020 NE
+Nombre: GARITA (MACIZO)
+Medidas: Altura: 5cm., Pisada: 23cm.
+Precio Lista: SIN FIJACIÓN, $135,520.17; HORMIGÓN-H, $159,781.80; ASFALTO - A, $180,194.88
+Especificación: Peso x Mt.Lineal: 10kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2020LE AM/NE
+Nombre: GARITA (MACIZO)
+Medidas: Altura: 5cm., Pisada: 23cm.
+Precio Lista: SIN FIJACIÓN, $157,067.31; HORMIGÓN-H, $181,328.94; ASFALTO - A, $201,742.02
+Especificación: Peso x Mt.Lineal: 10kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2020LE AM
+Nombre: GARITA (MACIZO)
+Medidas: Altura: 5cm., Pisada: 23cm.
+Precio Lista: SIN FIJACIÓN, $178,637.13; HORMIGÓN-H, $202,898.76; ASFALTO - A, $223,311.84
+Especificación: Peso x Mt.Lineal: 10kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2009 LIGHT NE
+Nombre: LOMO DE BURRO LIGHT
+Medidas: Altura: 5,5cm. Ancho: 25cm.
+Precio Lista: SIN FIJACIÓN, $156,137.38; HORMIGÓN-H, $187,194.29; ASFALTO - A, $198,966.74
+Especificación: Peso x Mt.Lineal: 5,2kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2011 LIGHT AM/NE
+Nombre: LOMO DE BURRO LIGHT
+Medidas: Altura: 5,5cm. Ancho: 25cm.
+Precio Lista: SIN FIJACIÓN, $156,137.38; HORMIGÓN-H, $187,194.29; ASFALTO - A, $198,966.74
+Especificación: Peso x Mt.Lineal: 5,2kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2012 LIGHT AM
+Nombre: LOMO DE BURRO LIGHT
+Medidas: Altura: 5,5cm. Ancho: 25cm.
+Precio Lista: SIN FIJACIÓN, $156,137.38; HORMIGÓN-H, $187,194.29; ASFALTO - A, $198,966.74
+Especificación: Peso x Mt.Lineal: 5,2kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2015 LIGHT
+Nombre: PUNTERA LOMO DE BURRO LIGHT
+Medidas: Altura: 5,5cm. Ancho: 20cm.
+Precio Lista: SIN FIJACIÓN, $50,941.98; HORMIGÓN-H, $66,470.43; ASFALTO - A, $72,356.66
+Especificación: Venta por par, Reflectivo: NO APLICA
+----------------------------------------
+Cód: MP2010B
+Nombre: LOMO DE BURRO BIDIRECCIONAL
+Medidas: Altura: 5,5cm Pisada: 40cm
+Precio Lista: SIN FIJACIÓN, $222,547.93; HORMIGÓN-H, $254,896.77; ASFALTO - A, $282,114.21
+Especificación: Peso por Mt.Lineal: 20kg, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2009 NE
+Nombre: LOMO DE BURRO (MACIZO)
+Medidas: Altura: 5,5cm., Pisada: 40cm.
+Precio Lista: SIN FIJACIÓN, $208,576.32; HORMIGÓN-H, $240,925.15; ASFALTO - A, $268,142.59
+Especificación: Peso x Mt.Lineal: 20kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2010 AM/NE
+Nombre: LOMO DE BURRO (MACIZO)
+Medidas: Altura: 5,5cm., Pisada: 40cm.
+Precio Lista: SIN FIJACIÓN, $270,606.24; HORMIGÓN-H, $302,955.07; ASFALTO - A, $330,172.51
+Especificación: Peso x Mt.Lineal: 20kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2011LE AM/NE
+Nombre: LOMO DE BURRO (MACIZO) PREMIUM / LINEA ESTANDAR
+Medidas: Altura: 5,5cm., Pisada: 40cm.
+Precio Lista: SIN FIJACIÓN-P, $351,785.41; HORMIGÓN-P, $384,134.25; ASFALTO-P, $411,351.69; SIN FIJACIÓN-LE, $236,496.87; HORMIGÓN-LE, $268,845.71; ASFALTO - LE, $296,063.15
+Especificación: Peso x Mt.Lineal: 20kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2012LE AM
+Nombre: LOMO DE BURRO (MACIZO)
+Medidas: Altura: 5,5cm. Pisada: 40cm.
+Precio Lista: SIN FIJACIÓN, $264,417.43; HORMIGÓN-H, $296,766.26; ASFALTO - A, $323,983.70
+Especificación: Peso x Mt.Lineal: 20kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2015B NE
+Nombre: PUNTERA LOMO DE BURRO BIDIRECCIONAL
+Medidas: Altura: 5,5cm Pisada: 40cm
+Precio Lista: SIN FIJACIÓN, $50,805.89; HORMIGÓN-H, $58,893.10; ASFALTO - A, $65,697.46
+Especificación: Peso por Par: 4,5kg, Reflectivo: NO APLICA
+----------------------------------------
+Cód: MP2015LE AM
+Nombre: PUNTERA LOMO DE BURRO PREMIUM / LINEA ESTANDAR
+Medidas: Altura: 5,5cm. Pisada: 40cm.
+Precio Lista: SIN FIJACIÓN-P, $115,832.89; HORMIGÓN-P, $132,007.31; ASFALTO-P, $145,616.03; SIN FIJACIÓN - LE, $71,695.27; HORMIGÓN-LE, $87,869.69; ASFALTO - LE, $101,478.41
+Especificación: Peso x Par: 4,5kg., Reflectivo: NO APLICA
+----------------------------------------
+Cód: MP2015 NE
+Nombre: PUNTERA LOMO DE BURRO
+Medidas: Altura: 5,5cm. Pisada: 40cm.
+Precio Lista: SIN FIJACIÓN, $50,805.89; HORMIGÓN-H, $66,980.31; ASFALTO - A, $80,589.03
+Especificación: Peso x Par: 4,5kg., Reflectivo: NO APLICA
+----------------------------------------
+Cód: LP2016
+Nombre: LOMO DE BURRO PASACABLE
+Medidas: Altura: 6cm Pisada: 40cm, MEDIDAS: 40 x 25 cm. (Por módulo)
+Precio Lista: SIN FIJACIÓN, $653,632.20; HORMIGÓN - H / ASFALTO - A, $684,689.11
+Especificación: 5 Pasacables, Peso por Mt.Lineal: 20kg.
+----------------------------------------
+Cód: LP2016 AV
+Nombre: LOMO DE BURRO PASACABLE ANTIVANDÁLICO
+Medidas: Altura: 6cm Pisada: 40cm, MEDIDAS: 40 x 25 cm. (Por módulo)
+Precio Lista: SIN FIJACIÓN, $653,632.20; HORMIGÓN - H / ASFALTO - A, $684,689.11
+Especificación: 3 Pasacables, Peso por Mt.Lineal: 20kg.
+----------------------------------------
+Cód: MP2022NE
+Nombre: REDUCTOR (MACIZO)
+Medidas: Altura: 7 cm., Pisada: 90cm.
+Precio Lista: SIN FIJACIÓN, $708,107.06; HORMIGÓN-H, $801,305.02; ASFALTO - A, $842,131.18
+Especificación: Peso x 1,2Mt.: 63kg., Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP2016 NE (Juego)
+Nombre: PUNTERA REDUCTOR (MACIZO)
+Medidas: Altura: 7 cm., Pisada: 90cm.
+Precio Lista: SIN FIJACIÓN, $161,331.38; HORMIGÓN-H, $208,571.78; ASFALTO - A, $235,789.22
+Especificación: Peso x Juego: 16kg., Reflectivo: NO APLICA
+----------------------------------------
+Cód: DR 600 LE
+Nombre: DELINEADOR FLEXIBLE
+Medidas: Altura: 60cm.
+Precio Lista: SIN FIJACIÓN, $68,263.83; HORMIGÓN - H / ASFALTO - A, $83,792.29
+Especificación: Conformado: 1 Pieza, Peso: 1,3 kg., Reflectivo: 2 x 5 cm.
+----------------------------------------
+Cód: DR 800 LE
+Nombre: DELINEADOR FLEXIBLE
+Medidas: Altura: 80cm.
+Precio Lista: SIN FIJACIÓN, $90,726.84; HORMIGÓN - H / ASFALTO - A, $106,255.30
+Especificación: Conformado: 1 Pieza, Peso: 1,55 kg., Reflectivo: 3 x 5 cm.
+----------------------------------------
+Cód: DR 900 LE
+Nombre: DELINEADOR FLEXIBLE
+Medidas: Altura: 90cm.
+Precio Lista: SIN FIJACIÓN, $131,460.24; HORMIGÓN - H / ASFALTO - A, $146,988.69
+Especificación: Conformado: 1 Pieza, Peso: 1,8 kg., Reflectivo: 3 x 5 cm.
+----------------------------------------
+Cód: DRD 600 LE BN
+Nombre: DELINEADOR REBATIBLE DESMONTABLE
+Medidas: Altura: 60cm.
+Precio Lista: SIN FIJACIÓN, $43,768.20; FIJACION H/A, $59,296.66; REPUESTO SIN BASE / SF, $36,908.48
+Especificación: Peso: 1,1 kg., Reflectivo: 2 x 7,5 cm.
+----------------------------------------
+Cód: DRD 750 LE BN
+Nombre: DELINEADOR REBATIBLE DESMONTABLE
+Medidas: Altura: 75cm.
+Precio Lista: SIN FIJACIÓN, $45,377.28; FIJACION H/A, $60,905.74; REPUESTO SIN BASE / SF, $38,517.58
+Especificación: Peso: 1,3 kg., Reflectivo: 2 x 7,5 cm.
+----------------------------------------
+Cód: DRDM-600LE AM
+Nombre: DELINEADOR ENCASTRABLE CORDON BICISENDA
+Medidas: Altura: 70 cm.
+Precio Lista: SIN FIJACIÓN, $157,496.86; FIJACION H/A HORMIGÓN - H / ASFALTO - A, $173,557.87
+Especificación:
+----------------------------------------
+Cód: DRDM-750LE AM
+Nombre: DELINEADOR ENCASTRABLE CORDON BICISENDA
+Medidas: Altura: 85 cm.
+Precio Lista: SIN FIJACIÓN, $159,105.96; FIJACION H/A HORMIGÓN - H / ASFALTO - A, $175,166.97
+Especificación:
+----------------------------------------
+Cód: DRDG 600LE-NE
+Nombre: DELINEADOR GARITA
+Medidas: Altura: 60cm.
+Precio Lista: SIN FIJACIÓN, $110,457.44; HORMIGÓN-H, $122,103.79; ASFALTO - A, $132,794.80
+Especificación: Conformado: 2 Piezas, Peso: 5,6 kg., Reflectivo: 2 x 7,5 cm.
+----------------------------------------
+Cód: DRDG 600LE-AM
+Nombre: DELINEADOR GARITA
+Medidas: Altura: 60cm.
+Precio Lista: SIN FIJACIÓN, $132,027.27; HORMIGÓN-H, $143,673.61; ASFALTO - A, $154,364.62
+Especificación: Conformado: 2 Piezas, Peso: 5,6 kg., Reflectivo: 2 x 7,5 cm.
+----------------------------------------
+Cód: DRDG 750LE-NE
+Nombre: DELINEADOR GARITA
+Medidas: Altura: 75cm.
+Precio Lista: SIN FIJACIÓN, $119,008.26; HORMIGÓN-H, $130,654.60; ASFALTO - A, $141,345.61
+Especificación: Conformado: 2 Piezas, Peso: 5,8 kg., Reflectivo: 2 x 7,5 cm.
+----------------------------------------
+Cód: DRDG 750LE-AM
+Nombre: DELINEADOR GARITA
+Medidas: Altura: 75cm.
+Precio Lista: SIN FIJACIÓN, $140,578.08; HORMIGÓN-H, $152,224.42; ASFALTO - A, $162,915.43
+Especificación: Conformado: 2 Piezas, Peso: 5,8 kg., Reflectivo: 2 x 7,5 cm.
+----------------------------------------
+Cód: 1301-2R
+Nombre: MOJÓN
+Medidas: Altura: 75 cm.
+Precio Lista: $99,591.11
+Especificación: Peso: 2 kg., Conformado: 1 Pieza, Reflectivo: 2x9cm.
+----------------------------------------
+Cód: 1301-RFC
+Nombre: MOJÓN
+Medidas: Altura: 75 cm.
+Precio Lista: $128,289.40
+Especificación: Peso: 2 kg., Conformado: 1 Pieza, Reflectivo Full Color: 2x9cm.
+----------------------------------------
+Cód: DR 900 LSF
+Nombre: POSTE VIAL DEMARCATORIO
+Medidas: Altura: 90 cm.
+Precio Lista: SIN FIJACIÓN, $54,518.35; HORMIGÓN - H / ASFALTO - A, $70,046.80
+Especificación: Peso: 1,30 kg., Vinilo: 4 x 5 cm.
+----------------------------------------
+Cód: 2853-3R
+Nombre: COLUMNA CON BASE
+Medidas: Altura: 110 cm.
+Precio Lista: $74,219.01
+Especificación: Peso: 6Kg, Reflectivo: 3x5cm.
+----------------------------------------
+Cód: 2896E-3R
+Nombre: ORDENADOR DE FILA CON CINTA PERIMETRAL AUTOENROLLABLE
+Medidas: Altura: 110 cm.
+Precio Lista: $87,734.96
+Especificación: Peso: 6,5Kg, Reflectivo: 3x5cm.
+----------------------------------------
+Cód: 2896-3R
+Nombre: ORDENADOR DE FILA
+Medidas: Altura: 110 cm.
+Precio Lista: $419,706.08
+Especificación: Peso: 6,5Kg, Reflectivo: 3x5cm.
+----------------------------------------
+Cód: 3805-R
+Nombre: BARRERA con REFLECTIVOS
+Medidas: Altura: 20 cm., Largo: 152 cm.
+Precio Lista: PRECIO SIN REFLECTIVOS, $56,043.27; PRECIO CON REFLECTIVOS, $82,848.37
+Especificación: Conformado: 1 Pieza, REFLECTIVA Cebrada 1 Cara.
+----------------------------------------
+Cód: 3805-FC
+Nombre: BARRERA con GRÁFICA
+Medidas: Altura: 20 cm., Largo: 152 cm.
+Precio Lista: $84,404.07
+Especificación: Conformado: 1 Pieza, Gráfica: VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3805-RG
+Nombre: BARRERA CEBRADA+GRÁFICA
+Medidas: Altura: 20 cm., Largo: 152 cm.
+Precio Lista: $96,157.02
+Especificación: Conformado: 1 Pieza, Gráfica: VINILO Full Color + Cebrado 1 Cara.
+----------------------------------------
+Cód: 3805-RFC
+Nombre: BARRERA REFLECTIVA+GRÁFICA
+Medidas: Altura: 20 cm., Largo: 152 cm.
+Precio Lista: $105,154.87
+Especificación: Conformado: 1 Pieza, Gráfica: REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 3806-1B 0R
+Nombre: VALLA DESMONTABLE DE 1 BARRERA
+Medidas: Altura: 120 cm., Largo total: 180 cm.
+Precio Lista: PRECIO 3806-R CABALLETE INDIVIDUAL, $131,111.97; PRECIO 3806-1B 0R, $318,267.20
+Especificación: NO INCLUYE GRAFICA
+----------------------------------------
+Cód: 3806-2B 0R
+Nombre: VALLA DESMONTABLE DE 2 BARRERAS
+Medidas: Altura: 120 cm., Largo total: 180 cm.
+Precio Lista: $374,310.47
+Especificación: NO INCLUYE GRAFICA
+----------------------------------------
+Cód: 2300-1B 0R / 2300-2B 0R
+Nombre: VALLA PORTATIL DE 1 Y 2 BARRERAS
+Medidas: Altura: 120 cm., Largo total: 220 cm.
+Precio Lista: PRECIO 2300-1B 0R, $308,569.40; PRECIO 2300-2B 0R, $364,612.67
+Especificación: NO INCLUYE GRÁFICA
+----------------------------------------
+Cód: 3807 AM/NE o RO/BL
+Nombre: BARRERA TUBULAR
+Medidas: Largo: 195 cm., Diámetro: 4 cm.
+Precio Lista: $32,976.45
+Especificación: Peso: 1,5 kg., NO INCLUYE CONOS
+----------------------------------------
+Cód: 3700-R
+Nombre: VALLA SMALL
+Medidas: Altura: 110 cm., Largo: 70 cm.
+Precio Lista: PRECIO SIN REFLECTIVOS, $143,714.52; PRECIO CON REFLECTIVOS, $156,835.83
+Especificación: Área Superior: REFLECTIVO Cebrado 1 Cara.
+----------------------------------------
+Cód: 3700-CFC
+Nombre: VALLA SMALL
+Medidas: Altura: 110 cm., Largo: 70 cm.
+Precio Lista: $169,095.01
+Especificación: Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3700
+Nombre: VALLA SMALL
+Medidas: Altura: 110 cm., Largo: 70 cm.
+Precio Lista: FC, $173,414.88; RFC, $196,949.80
+Especificación: Área Superior: Gráfica VINILO Full Color 1 Cara., Área Central FC: Gráfica VINILO Full Color 1 Cara., Área Central RFC: Gráfica REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 3702-R
+Nombre: VALLA PLEGABLE
+Medidas: Altura: 120 cm., Largo: 250 cm. ( DESPLEGADO )
+Precio Lista: $657,302.31
+Especificación: Estructura de aluminio plegable
+----------------------------------------
+Cód: 3701M-R
+Nombre: VALLA MONOPIEZA
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: PRECIO SIN REFLECTIVOS, $362,352.81; PRECIO CON REFLECTIVOS, $395,718.67
+Especificación: Peso: 12kg., Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: NO APLICA
+----------------------------------------
+Cód: 3701M-CFC
+Nombre: VALLA MONOPIEZA
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: $423,835.87
+Especificación: Peso: 12kg., Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701M-FC
+Nombre: VALLA MONOPIEZA
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: $437,725.61
+Especificación: Peso: 12kg., Área Superior: Gráfica VINILO Full Color 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701M
+Nombre: VALLA MONOPIEZA
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: RFC-FC, $457,951.35; RFC, $492,891.73
+Especificación: Peso: 12kg., Área Superior: Gráfica REFLECTIVO Full Color 1 Cara., Área Central RFC-FC: Gráfica VINILO Full Color 1 Cara., Área Central RFC: REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701L-R
+Nombre: VALLA LIGHT
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: PRECIO SIN REFLECTIVOS, $382,767.93; PRECIO CON REFLECTIVOS, $416,133.79
+Especificación: Peso: 20kg., Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: NO APLICA
+----------------------------------------
+Cód: 3701L-CFC
+Nombre: VALLA LIGHT
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: $444,250.99
+Especificación: Peso: 20kg., Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701L-FC
+Nombre: VALLA LIGHT
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: $458,140.73
+Especificación: Peso: 20kg., Área Superior: Gráfica VINILO Full Color 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701L
+Nombre: VALLA LIGHT
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: RFC-FC, $478,366.47; RFC, $513,306.86
+Especificación: Peso: 20kg., Área Superior: Gráfica REFLECTIVO Full Color 1 Cara., Área Central RFC-FC: Gráfica VINILO Full Color 1 Cara., Área Central RFC: REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701-R
+Nombre: VALLA PREMIUM
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: PRECIO SIN REFLECTIVOS, $437,202.81; PRECIO CON REFLECTIVOS, $470,568.67
+Especificación: Peso: 25kg., Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: NO APLICA
+----------------------------------------
+Cód: 3701-CFC
+Nombre: VALLA PREMIUM
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: $498,685.87
+Especificación: Peso: 25kg., Área Superior: REFLECTIVO Cebrado 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701-FC
+Nombre: VALLA PREMIUM
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: $512,575.61
+Especificación: Peso: 25kg., Área Superior: Gráfica VINILO Full Color 1 Cara., Área Central: Gráfica VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 3701
+Nombre: VALLA PREMIUM
+Medidas: Altura: 110 cm., Largo: 190 cm.
+Precio Lista: RFC-FC, $532,801.35; RFC, $567,741.74
+Especificación: Peso: 25kg., Área Superior: Gráfica REFLECTIVO Full Color 1 Cara., Área Central RFC-FC: Gráfica VINILO Full Color 1 Cara., Área Central RFC: REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 2705-0R
+Nombre: CANALIZADOR SMALL
+Medidas: Altura: 48 cm., Largo: 115 cm.
+Precio Lista: $213,814.31
+Especificación: Peso: 7 kg., SIN REFLECTIVOS, Lastre: Hasta 10L agua y 30Kg arena, APTO LLENADO CON AGUA o ARENA
+----------------------------------------
+Cód: 2705-R
+Nombre: CANALIZADOR SMALL
+Medidas: Altura: 48 cm., Largo: 115 cm.
+Precio Lista: $259,738.98
+Especificación: Peso: 7 kg., Reflectivos: Cebrado 2 Caras., Lastre: Hasta 10L agua y 30Kg arena, APTO LLENADO CON AGUA ó ARENA
+----------------------------------------
+Cód: 2705-RFC
+Nombre: CANALIZADOR SMALL
+Medidas: Altura: 48 cm., Largo: 115 cm.
+Precio Lista: $287,293.91
+Especificación: Peso: 7 kg., Reflectivos: Full Color 2 Caras., Lastre: Hasta 10L agua y 30Kg arena, APTO LLENADO CON AGUA o ARENA
+----------------------------------------
+Cód: 2705PH
+Nombre: PUNTERA SMALL ENCASTRE HEMBRA
+Medidas: Altura: 75 cm., Largo: 100 cm.
+Precio Lista: 0R, $270,549.75; FC, $296,792.57; RFC, $326,784.15
+Especificación: ENCASTRE HEMBRA, Peso: 9 kg., Gráfica FC: Vinilo Full Color 1 Cara., Gráfica RFC: REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 2706-0R
+Nombre: CANALIZADOR INTERURBANO
+Medidas: Altura: 110 cm., Largo: 115 cm.
+Precio Lista: $430,942.80
+Especificación: Peso: 12kg., Gráfica: NO APLICA
+----------------------------------------
+Cód: 2706-FC
+Nombre: CANALIZADOR INTERURBANO
+Medidas: Altura: 110 cm., Largo: 115 cm.
+Precio Lista: $462,808.98
+Especificación: Peso: 12kg., Gráfica Superior: VINILO Full Color 1 Cara., Gráfica Inferior: VINILO Full Color 1 Cara.
+----------------------------------------
+Cód: 2706
+Nombre: CANALIZADOR INTERURBANO
+Medidas: Altura: 110 cm., Largo: 115 cm.
+Precio Lista: RFC-FC, $484,365.64; RFC, $504,047.48
+Especificación: Peso: 12kg., RFC-FC: Superior Vinilo Inferior Reflectivo 1 Cara, RFC: Superior e Inferior Reflectivo
+----------------------------------------
+Cód: 2705PM
+Nombre: PUNTERA SMALL ENCASTRE MACHO
+Medidas: Altura: 75 cm., Largo: 100 cm.
+Precio Lista: 0R, $270,549.75; FC, $296,792.57; RFC, $326,784.15
+Especificación: Peso: 9 kg., Gráfica FC: Vinilo Full Color 1 Cara., Gráfica RFC: REFLECTIVO Full Color 1 Cara.
+----------------------------------------
+Cód: 2703L-6R
+Nombre: SUBURBANO LIGHT
+Medidas: Altura: 80 cm., Largo: 100 cm.
+Precio Lista: $216,011.21
+Especificación: Peso: 9 kg., Reflectivos: 2 de 9,5x60cm y 4 de 2,5x5cm., Lastre: Hasta 30 kg., NO APTO LLENADO CON AGUA SOLO ARENA
+----------------------------------------
+Cód: 2703-6R
+Nombre: SUBURBANO
+Medidas: Altura: 80 cm., Largo: 100 cm.
+Precio Lista: $333,845.26
+Especificación: Peso: 12 kg., Reflectivos: 2 de 9,5x60cm. y 4 de 2,5x5cm., Lastre: Hasta 50 kg., Reflectivo: Lente Acrílico Prismático, APTO LLENADO CON AGUA ó ARENA
+----------------------------------------
+Cód: 2702-8R
+Nombre: YERSEY
+Medidas: Altura: 80 cm., Largo: 190 cm.
+Precio Lista: $632,912.54
+Especificación: Peso: 28 kg., Reflectivos: 10 de 31 x 6cm., Lastre: Hasta 30 kg., APTO LLENADO CON AGUA ó ARENA
+----------------------------------------
+Cód: MP3041-1R NE
+Nombre: TOPE DE ESTACIONAMIENTO REFORZADO NEGRO / LINEA ESTANDAR
+Medidas:
+Precio Lista: SIN FIJACIÓN - NEGRO, $17,186.45; HORMIGÓN-H, $24,950.68; ASFALTO - A, $32,078.02
+Especificación:
+----------------------------------------
+Cód: MP3040-1R NE
+Nombre: TOPE DE ESTACIONAMIENTO MACIZO NEGRO / LINEA ESTANDAR
+Medidas:
+Precio Lista: SIN FIJACIÓN, $34,289.89; HORMIGÓN-H, $49,818.35; ASFALTO - A, $64,073.03
+Especificación:
+----------------------------------------
+Cód: MP3040-1R AM
+Nombre: TOPE DE ESTACIONAMIENTO MACIZO PREMIUM
+Medidas: Altura: 12cm, Medidas: 50 x 22cm
+Precio Lista: SIN FIJACIÓN - LE AM, $17,872.79; HORMIGÓN-H - LE AM, $25,637.01; ASFALTO - LE AM, $32,764.35; SIN FIJACIÓN, $138,210.84; HORMIGÓN-P, $153,739.30; ASFALTO - P, $167,993.98
+Especificación: Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP3045-LE-3R
+Nombre: TOPE DE ESTACIONAMIENTO BICISENDA
+Medidas: Altura: 10cm, Medidas: 44 x 12cm
+Precio Lista: SIN FIJACIÓN, $22,047.71; HORMIGÓN - H / ASFALTO - A, $37,576.17
+Especificación: Reflectivo: 2 Laterales y 1 Frente
+----------------------------------------
+Cód: MP3048HD NE
+Nombre: TOPE DE CAMIÓN
+Medidas: Altura: 15cm., Largo: 90cm
+Precio Lista: SIN FIJACIÓN, $289,288.95; HORMIGÓN - H / ASFALTO - A, $342,825.66
+Especificación: Peso x 0,9Mt: 23,5kg, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP3048HDLE N/A/N
+Nombre: TOPE DE CAMIÓN
+Medidas: Altura: 15cm., Largo: 90cm
+Precio Lista: SIN FIJACIÓN, $291,969.42; HORMIGÓN - H / ASFALTO - A, $345,506.12
+Especificación: Peso x 0,9Mt: 23,5kg, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP3048HDLE A/N/A
+Nombre: TOPE DE CAMIÓN
+Medidas: Altura: 15cm., Largo: 90cm
+Precio Lista: SIN FIJACIÓN, $310,732.89; HORMIGÓN - H / ASFALTO - A, $364,269.60
+Especificación: Peso x 0,9Mt: 23,5kg, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: MP3048HDLE AM
+Nombre: TOPE DE CAMIÓN
+Medidas: Altura: 15cm., Largo: 90cm
+Precio Lista: SIN FIJACIÓN, $329,455.32; HORMIGÓN - H / ASFALTO - A, $382,992.02
+Especificación: Peso x 0,9Mt: 23,5kg, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: BDE75
+Nombre: BLOQUEADOR DE ESTACIONAMIENTO
+Medidas: Altura: 75cm
+Precio Lista: SIN FIJACIÓN, $131,030.65; HORMIGÓN - H / ASFALTO - A, $136,355.29
+Especificación: Conformado: 1 Pieza, Peso: 1,2 kg, Reflectivo: 2 x 9 cm
+----------------------------------------
+Cód: MP3046-2R
+Nombre: TOPE DE PARED
+Medidas: Altura: 60cm
+Precio Lista: SIN FIJACIÓN, $36,908.48; HORMIGÓN-H, $39,168.89
+Especificación: Conformado: 1 Pieza, Peso: 0,4 kg., Reflectivo: 2 x 5 cm
+----------------------------------------
+Cód: 4001-1R /4000 NE
+Nombre: CALZA
+Medidas: Altura: 21cm, Base: 28 x 19cm
+Precio Lista: 4001-1R, $18,617.18; 4000 NE, $43,192.51
+Especificación: Peso 4001: 5,5kg, Peso 4000: 11kg
+----------------------------------------
+Cód: MP3050-2R
+Nombre: SUBIDA DE CORDÓN
+Medidas: Altura: 10cm, Base: 50 x 24cm
+Precio Lista: SIN FIJACIÓN, $55,874.00; HORMIGÓN, $66,581.34; ASFALTO, $73,940.94
+Especificación: Peso: 10kg, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: BMB400-2R NE
+Nombre: BOLARDO NEGRO
+Medidas: Altura: 40cm., Medidas: Ø 37cm
+Precio Lista: SIN FIJACIÓN, $195,730.82; HORMIGÓN-H, $231,113.49; ASFALTO - A, $249,931.63
+Especificación: Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: BMB400LG-2R NE
+Nombre: BOLARDO NEGRO LOGO
+Medidas: Altura: 40cm, Medidas: Ø 37cm
+Precio Lista: SIN FIJACIÓN, $201,626.57; HORMIGÓN-H, $237,009.24; ASFALTO - A, $255,827.38
+Especificación: Producto con Pintura Poliuretánica, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: BMB400LE-2R COLOR
+Nombre: BOLARDO COLOR
+Medidas: Altura: 40cm, Medidas: Ø 37cm
+Precio Lista: SIN FIJACIÓN, $254,686.06; HORMIGÓN-H, $290,068.73; ASFALTO - A, $308,886.87
+Especificación: Producto con Pintura Poliuretánica, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: BMB400LELG-2R COLOR
+Nombre: BOLARDO COLOR LOGO
+Medidas: Altura: 40cm, Medidas: Ø 37cm
+Precio Lista: SIN FIJACIÓN, $264,118.95; HORMIGÓN-H, $299,501.62; ASFALTO - A, $318,319.76
+Especificación: Producto con Pintura Poliuretánica, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: BMB500-R NE
+Nombre: BOLARDO CILÍNDRICO NEGRO
+Medidas: Altura: 50cm, Medidas: Ø 30cm
+Precio Lista: SIN FIJACIÓN, $298,345.78; HORMIGÓN-H, $333,728.46; ASFALTO - A, $352,546.59
+Especificación: Reflectivo: 5x65cm
+----------------------------------------
+Cód: BMB500LG-R NE
+Nombre: BOLARDO CILÍNDRICO NEGRO CON LOGO
+Medidas: Altura: 50cm, Medidas: Ø 30cm
+Precio Lista: SIN FIJACIÓN, $304,308.22; HORMIGÓN-H, $339,690.89; ASFALTO - A, $358,509.03
+Especificación: Producto con Pintura Poliuretánica, Reflectivo: 5x65cm
+----------------------------------------
+Cód: BMB500LE-R COLOR
+Nombre: BOLARDO CILÍNDRICO COLOR
+Medidas: Altura: 50cm, Medidas: Ø 30cm
+Precio Lista: SIN FIJACIÓN, $355,652.78; HORMIGÓN-H, $391,035.46; ASFALTO - A, $409,853.59
+Especificación: Producto con Pintura Poliuretánica, Reflectivo: 5x65cm
+----------------------------------------
+Cód: BMB500LELG-R
+Nombre: BOLARDO CILÍNDRICO COLOR CON LOGO
+Medidas: Altura: 50cm, Medidas: Ø 30cm
+Precio Lista: SIN FIJACIÓN, $361,615.22; HORMIGÓN-H, $396,997.89; ASFALTO - A, $415,816.03
+Especificación: Producto con Pintura Poliuretánica, Reflectivo: 5x65cm
+----------------------------------------
+Cód: TRL LE 125 AM
+Nombre: TACHA REDUCTORA LIVIANA
+Medidas: Altura: 2,5cm., Medida: Ø 12,5cm.
+Precio Lista: SIN FIJACIÓN, $11,948.46; HORMIGÓN - H / ASFALTO - A, $14,610.78
+Especificación: Reflectivo: 2 x 4cm.
+----------------------------------------
+Cód: TRL LE 150 AM
+Nombre: TACHA REDUCTORA LIVIANA
+Medidas: Altura: 3,5cm., Medida: Ø 15cm.
+Precio Lista: SIN FIJACIÓN, $14,906.77; HORMIGÓN - H / ASFALTO - A, $20,231.40
+Especificación: Reflectivo: 2 x 4cm.
+----------------------------------------
+Cód: TRL LE 200 AM
+Nombre: TACHA REDUCTORA LIVIANA
+Medidas: Altura: 4,5cm., Medida: Ø 20cm.
+Precio Lista: SIN FIJACIÓN, $23,113.05; HORMIGÓN - H / ASFALTO - A, $38,641.51
+Especificación: Reflectivo: 2 x 4cm.
+----------------------------------------
+Cód: TL2015 LIGHT
+Nombre: TACHON LIGHT
+Medidas: Altura: 5,5cm. Ancho: 20cm.
+Precio Lista: SIN FIJACIÓN, $50,941.98; HORMIGÓN-H, $66,470.43; ASFALTO - A, $72,356.66
+Especificación: Venta x Par, Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: TRM 125 AM
+Nombre: TACHA REDUCTORA MACIZA
+Medidas: Altura: 2,5cm., Medida: Ø 12,5cm.
+Precio Lista: SIN FIJACIÓN, $17,283.07; HORMIGÓN - H / ASFALTO - A, $19,945.39
+Especificación: Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: TRM 150 AM
+Nombre: TACHA REDUCTORA MACIZA
+Medidas: Altura: 3,5cm., Medida: Ø 15cm.
+Precio Lista: SIN FIJACIÓN, $25,705.28; HORMIGÓN - H / ASFALTO - A, $31,029.92
+Especificación: Reflectivo: Lente Acrílico Prismático
+----------------------------------------
+Cód: TRM 200 AM
+Nombre: TACHA REDUCTORA MACIZA
+Medidas: Altura: 4,5cm., Medida: Ø 20cm.
+Precio Lista: SIN FIJACIÓN, $60,266.90; HORMIGÓN - H / ASFALTO - A, $75,795.35
+Especificación: Reflectivo: Lente Acrílico Prism
