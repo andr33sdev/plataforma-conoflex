@@ -511,7 +511,7 @@ app.post("/api/crear-borrador-gmail", async (req, res) => {
     htmlBody = htmlBody.replace(
       /\{FOTO_CATALOGO_URL=(https?:\/\/[^\}]+)\}/g,
       '<img src="$1" width="100%" style="max-height:220px; height: auto; object-fit:contain; border-radius:4px; margin: 0 5px;" alt="Catálogo" />',
-    );S
+    );
 
     // Limpieza de seguridad por si la IA dejó variables sueltas por productos sin foto
     htmlBody = htmlBody.replace(/\{FOTO_TECNICA_URL=[^\}]*\}/g, "");
