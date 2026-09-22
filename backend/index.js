@@ -465,6 +465,7 @@ app.post("/api/crear-borrador-gmail", async (req, res) => {
       )
       .all();
 
+    // NUEVO PROMPT: Obligamos a la IA a usar variables crudas en lugar de generar etiquetas img
     const prompt = `
       Sos el asistente comercial oficial de Conoflex Argentina.
 
@@ -481,14 +482,15 @@ app.post("/api/crear-borrador-gmail", async (req, res) => {
       1. Analiza la consulta y busca los productos cuyo campo 'aplicacion' o 'especificacion' mejor responden al requerimiento (garages, autopistas, obras, etc.).
       2. Redacta un saludo comercial cordial.
       3. Para cada producto cotizado, crea una TARJETA HORIZONTAL en HTML (tabla con borde #e2e8f0, esquinas redondeadas y padding de 10px).
-      4. Si el producto tiene 'foto_tecnica' o 'foto_catalogo' con URL válida (http/https), inclúyelas centradas arriba:
-         <img src="URL" style="max-width:120px; max-height:90px; object-fit:contain; border-radius:4px; margin: 0 5px;" />
-         SI ES NULL O VACÍO, NO INCLUYAS NINGUNA ETIQUETA <img> NI RECUADROS VACÍOS.
+      4. MUY IMPORTANTE PARA LAS IMÁGENES:
+         - Si el producto tiene valor en 'foto_tecnica', escribí exactamente este texto crudo centrado arriba: {FOTO_TECNICA_URL=poner_aqui_la_url_de_la_BD}
+         - Si tiene 'foto_catalogo', escribí exactamente: {FOTO_CATALOGO_URL=poner_aqui_la_url_de_la_BD}
+         - NUNCA uses la etiqueta <img>. Yo me encargo de procesarlo. Si el valor es null, no escribas nada.
       5. Muestra Nombre en negrita, Código, Medidas y Especificaciones/Aplicación.
       6. Muestra las 3 cajas de precio naranjas (Lista, Precio c/Descuento y Total).
       7. Agrega el cuadro final con notas comerciales sobre IVA, bonificaciones y despacho gratis.
 
-      Devuelve ÚNICAMENTE el código HTML dentro del cuerpo sin explicaciones adicionales.
+      Devuelve ÚNICAMENTE el código HTML crudo sin bloques Markdown, sin explicaciones.
     `;
 
     const response = await ai.models.generateContent({
@@ -496,10 +498,24 @@ app.post("/api/crear-borrador-gmail", async (req, res) => {
       contents: prompt,
     });
 
-    const htmlBody = response.text
+    let htmlBody = response.text
       .replace(/```html/g, "")
       .replace(/```/g, "")
       .trim();
+
+    // PROCESAMIENTO POST-IA: Node.js reemplaza las variables por las etiquetas de imagen reales
+    htmlBody = htmlBody.replace(
+      /\{FOTO_TECNICA_URL=(https?:\/\/[^\}]+)\}/g,
+      '<img src="$1" style="max-width:120px; max-height:90px; object-fit:contain; border-radius:4px; margin: 0 5px;" alt="Técnica" />',
+    );
+    htmlBody = htmlBody.replace(
+      /\{FOTO_CATALOGO_URL=(https?:\/\/[^\}]+)\}/g,
+      '<img src="$1" style="max-width:120px; max-height:90px; object-fit:contain; border-radius:4px; margin: 0 5px;" alt="Catálogo" />',
+    );
+
+    // Limpieza de seguridad por si la IA dejó variables sueltas por productos sin foto
+    htmlBody = htmlBody.replace(/\{FOTO_TECNICA_URL=[^\}]*\}/g, "");
+    htmlBody = htmlBody.replace(/\{FOTO_CATALOGO_URL=[^\}]*\}/g, "");
 
     const gmail = google.gmail({ version: "v1", auth: oauth2Client });
     const draftPayload = crearRawEmail(
