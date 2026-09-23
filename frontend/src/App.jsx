@@ -2,7 +2,8 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Logo from "./assets/Logo.svg";
 
-const API_URL = "https://plataforma-conoflex-backend.onrender.com";
+const API_URL = "http://localhost:5000"; // Cambiar a la URL de tu backend en producción
+//const API_URL = "https://plataforma-conoflex-backend.onrender.com";
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("cotizador");

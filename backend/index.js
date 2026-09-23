@@ -15,6 +15,12 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5000;
 
+// Determinar la URL del Frontend dinámicamente (Local vs Nube)
+const FRONTEND_URL =
+  process.env.BASE_URL && process.env.BASE_URL.includes("onrender")
+    ? "https://plataforma-conoflex.vercel.app"
+    : "http://localhost:5173";
+
 // Directorios físicos
 const IMAGENES_DIR = path.join(__dirname, "public/imagenes");
 const UPLOADS_DIR = path.join(__dirname, "uploads");
@@ -164,7 +170,6 @@ function poblarDBDesdeCatalogoTXT() {
         const existente = stmtExiste.get(cod);
         if (existente) {
           // Si el producto ya existe, SOLO actualiza sus precios y datos del catálogo.
-          // Fotos y Aplicaciones quedan 100% intactas.
           stmtUpdate.run(
             nombre || "",
             medidas || "",
@@ -287,7 +292,7 @@ app.get("/api/productos", (req, res) => {
   res.json({ productos });
 });
 
-// EDITAR FICHA Y USOS DE UN PRODUCTO (Garantiza no pasar 'undefined' a la BD)
+// EDITAR FICHA Y USOS DE UN PRODUCTO
 app.put("/api/productos/:id", (req, res) => {
   try {
     const { id } = req.params;
@@ -377,9 +382,9 @@ app.post("/api/reglas", (req, res) => {
 
 app.get("/auth/google", (req, res) => {
   const scopes = [
-    "https://www.googleapis.com/auth/gmail.readonly",
-    "https://www.googleapis.com/auth/gmail.compose",
-    "https://www.googleapis.com/auth/gmail.modify",
+    "[https://www.googleapis.com/auth/gmail.readonly](https://www.googleapis.com/auth/gmail.readonly)",
+    "[https://www.googleapis.com/auth/gmail.compose](https://www.googleapis.com/auth/gmail.compose)",
+    "[https://www.googleapis.com/auth/gmail.modify](https://www.googleapis.com/auth/gmail.modify)",
   ];
   res.redirect(
     oauth2Client.generateAuthUrl({
@@ -390,12 +395,13 @@ app.get("/auth/google", (req, res) => {
   );
 });
 
+// Callback con redirección dinámica al frontend
 app.get("/auth/google/callback", async (req, res) => {
   try {
     const { tokens } = await oauth2Client.getToken(req.query.code);
     oauth2Client.setCredentials(tokens);
     fs.writeFileSync(TOKEN_PATH, JSON.stringify(tokens));
-    res.redirect("https://plataforma-conoflex.vercel.app?status=conectado");
+    res.redirect(`${FRONTEND_URL}?status=conectado`);
   } catch (error) {
     res.status(500).send("Error de autenticación");
   }
@@ -410,9 +416,7 @@ app.get("/api/mails", async (req, res) => {
     ) {
       return res.status(401).json({ error: "No autenticado" });
     }
-    if (!oauth2Client.credentials || !oauth2Client.credentials.access_token) {
-      return res.status(401).json({ error: "No autenticado" });
-    }
+
     const gmail = google.gmail({ version: "v1", auth: oauth2Client });
     const listRes = await gmail.users.messages.list({
       userId: "me",
@@ -465,7 +469,6 @@ app.post("/api/crear-borrador-gmail", async (req, res) => {
       )
       .all();
 
-    // NUEVO PROMPT: Obligamos a la IA a usar variables crudas en lugar de generar etiquetas img
     const prompt = `
       Sos el asistente comercial oficial de Conoflex Argentina.
 
